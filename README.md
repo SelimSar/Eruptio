@@ -12,7 +12,7 @@ Afin de pouvoir profiter du programme, cliquez sur le lien :[![Binder](https://m
 -cliquez sur Eruptio.ipynb.
 
 L'utilisation nécessite aucune compétence particulière.
-!!!! Mais il se peut que l'environnement bug au niveau de la cellule[8] aléatoirement selon votre navigateur, votre OS et sorte une erreur de type file :No such file or directory: 'Liste_Volcans.xlsx' dans ce cas faites un clique droit sur Liste_volcan.xlsx dans la fenêtre JupyterLab, puis cliquez sur copy path et dans la cellule du code posant problème dans la fenêtre Eruptio-Jupyter Notebook le coller à la ligne 30 à la place de 'Liste_Volcans.xlsx' où l'erreur se produit.
+!!!! Mais il se peut que l'environnement bug au niveau de la cellule[8] aléatoirement selon votre votre OS et sorte une erreur de type file :No such file or directory: 'Liste_Volcans.xlsx' dans ce cas faites un clique droit sur Liste_volcan.xlsx dans la fenêtre JupyterLab, puis cliquez sur copy path et dans la cellule du code posant problème dans la fenêtre Eruptio-Jupyter Notebook le coller à la ligne 30 à la place de 'Liste_Volcans.xlsx' où l'erreur se produit.
 
 
 Passez un bon moment de compréhension et d'apprentissage dans le domaine de la vulcanologie.
