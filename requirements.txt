@@ -1,6 +1,0 @@
-
-bqplot==0.12.36
-folium==0.14.0
-ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1634143127070/work
-matplotlib @ file:///C:/ci/matplotlib-suite_1660169687702/work
-scipy==1.9.1
