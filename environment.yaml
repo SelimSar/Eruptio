@@ -410,3 +410,4 @@ dependencies:
       - bqplot==0.12.36
       - tkhtmlview==0.1.1.post5
       - traittypes==0.2.1
+      - folium
