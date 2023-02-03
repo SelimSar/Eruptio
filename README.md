@@ -6,7 +6,7 @@ Ce programme a pour objectif une meilleure compréhension des activités volcani
 
 Bienvenu !!
 
-Afin de pouvoir profiter du programme, cliquez sur le lien :[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SelimSar/Eruptio/HEAD)
+Afin de pouvoir profiter du programme, cliquez sur le lien :[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SelimSar/Eruptio/HEAD?urlpath=%2Ftree%2Fbooleens)
 -attendez le chargement
 -cliquez sur Eruptio.ipynb qui se trouve sur la gauche.
 
