@@ -1,0 +1,13 @@
+name: bqplot
+channels:
+  - conda-forge
+dependencies:
+  - bqplot=0.12.30
+  - scipy
+  - numpy
+  - matplotlib
+  - folium
+  - math
+  - pandas
+  - ipywidgets
+  - random
